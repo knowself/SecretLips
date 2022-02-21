@@ -2,25 +2,25 @@
 
 ![](https://github.com/HashLips/hashlips_nft_contract/blob/main/logo.png)
 
-All the code in these repos was created and explained by HashLips on the main YouTube channel.
+All the code in these repos was created and explained by SecretLips on the main YouTube channel.
 
 To find out more please visit:
 
-[📺 YouTube](https://www.youtube.com/channel/UC1LV4_VQGBJHTJjEWUmy8nA)
+[📺 YouTube](https://www.youtube.com)
 
-[👄 Discord](https://discord.com/invite/qh6MWhMJDN)
+[👄 Discord](https://discord.com)
 
-[💬 Telegram](https://t.me/hashlipsnft)
+[💬 Telegram](https://t.me)
 
-[🐦 Twitter](https://twitter.com/hashlipsnft)
+[🐦 Twitter](https://twitter.com)
 
-[ℹ️ Website](https://hashlips.online/HashLips)
+[ℹ️ Website](https://privateNFTDapps.com)
 
-# HashLips NFT contract 🔥
+# SecretLips NFT contract 🔥
 
 ![](https://github.com/HashLips/hashlips_nft_contract/blob/main/banner.png)
 
-This repo provides a simple NFT smart contract.
+This repo provides a set of simple NFT smart contracts for the Secret Network to produce private NFTs of various kinds.
 
 ## Usage ℹ️
 
