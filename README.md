@@ -1,4 +1,4 @@
-# Welcome to HashLips 👄
+# Welcome to SecretLips 👄
 
 ![](https://github.com/HashLips/hashlips_nft_contract/blob/main/logo.png)
 
